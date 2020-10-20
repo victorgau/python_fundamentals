@@ -1,7 +1,7 @@
 # Python 基礎
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victorgau/python20200827/master)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/python20200827/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/python_fundamentals/)
 
 ### 投影片網址：[https://bit.ly/3eADRDL](https://bit.ly/3eADRDL)
 
